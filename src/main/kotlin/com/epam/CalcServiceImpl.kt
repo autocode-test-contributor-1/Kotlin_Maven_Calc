@@ -17,4 +17,5 @@ class CalcServiceImpl : CalcService {
         if (b == 0) return 0
         return a / b
     }
+
 }
